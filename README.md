@@ -4,20 +4,25 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+Audrey Cooper
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In Assignment 7, we applied our new knowledge of jQuery code to build an application 
+displaying recipe ingreidents. We were able to formulate responses to the users requests
+by selecting elements with jQuery, specifying event handlers and implementing effects.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aecooper3.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery code conforms to JavaScript rules, but uses shortcuts that look like a 
+different language. So, jQuery statements begin with $ so the computer knows to 
+interpret the code using the jQuery library.
+2. jQuery statements can be grouped into functions, and so backward-compatible
+event listeners are easier done with jQuery.
+3. Animation effects such as fadeIn and slideUp can be built into code to translate
+into movement on the application.
 
